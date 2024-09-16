@@ -1,4 +1,4 @@
-kullandığım veri seti: https://www.kaggle.com/code/murateker/notebookae64119a85
+kullandığım veri seti: https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
 
 Makine Öğrenmesi Projesi: Finansal Dolandırıcılık Tespiti
 Bu proje, makine öğrenmesi algoritmalarını kullanarak finansal işlemler üzerinde dolandırıcılığı tespit etmeyi amaçlamaktadır. Proje kapsamında hem gözetimli hem de gözetimsiz öğrenme yöntemleri kullanılmıştır.
@@ -31,4 +31,4 @@ Ortalama Mutlak Hata (MAE): 12.89
 Sonuçlar doğrultusunda, Ridge Regression modelinin dolandırıcılık tespitinde iyi bir performans sergilediği görülmüştür. Logistic Regression modeline kıyasla regularization kullanımıyla daha düşük hata oranları elde edilmiştir.
 
 7. Kaggle Notebook Linki
-Projenin tamamlanmış haline Kaggle üzerinden erişebilirsiniz:<a href="https://www.kaggle.com/code/murateker/notebookf25a129d6d"> Kaggle Notebook Linki </a>
+Projenin tamamlanmış haline Kaggle üzerinden erişebilirsiniz:<a href="https://www.kaggle.com/code/murateker/notebookae64119a85"> Kaggle Notebook Linki </a>
