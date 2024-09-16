@@ -1,4 +1,4 @@
-kullandığım veri seti: https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
+kullandığım veri seti: https://www.kaggle.com/code/murateker/notebookae64119a85
 
 Makine Öğrenmesi Projesi: Finansal Dolandırıcılık Tespiti
 Bu proje, makine öğrenmesi algoritmalarını kullanarak finansal işlemler üzerinde dolandırıcılığı tespit etmeyi amaçlamaktadır. Proje kapsamında hem gözetimli hem de gözetimsiz öğrenme yöntemleri kullanılmıştır.
